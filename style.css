@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+input{
+    background-color: black;
+    color: white;
+    border-radius: 18px;
+}
+
+button{
+    border-radius: 18px;
+}
